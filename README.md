@@ -1,2 +1,2 @@
 # react-complete-guide
-Learning react from strach
+Learning react from scratch
